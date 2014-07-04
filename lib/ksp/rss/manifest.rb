@@ -6,7 +6,7 @@ require 'ksp/rss/module'
 module KSP
   module RSS
     class Manifest
-      DEFAULT_URI = URI.parse("https://raw.github.com/jamis/KSP-RealSolarSystem-Bundler/master/real-solar-system.manifest")
+      DEFAULT_URI = URI.parse("https://raw.github.com/NathanKell/KSP-RealSolarSystem-Bundler/master/real-solar-system.manifest")
 
       attr_reader :bundle, :archive, :version
       attr_reader :required, :recommended, :configure, :defaults
