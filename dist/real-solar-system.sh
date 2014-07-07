@@ -8,4 +8,4 @@ if [ "$0" != "$SCRIPT_PATH" ] && [ "$SCRIPT_PATH" != "" ]; then
 fi
 
 CLASSPATH=./jars/zip4j_1.3.2.jar
-java -Djsse.enableSNIExtension=false -jar jars/real-solar-system.jar $*
+java -Djsse.enableSNIExtension=false -jar jars/real-solar-system.jar $* > log.txt
