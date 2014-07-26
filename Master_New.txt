@@ -1,0 +1,162 @@
+- name: Real Solar System
+  home:
+  via: url
+  url:
+  version:
+  gamedata:
+  category: core
+  description: >
+    
+- name: Realism Overhaul
+  home:
+  via: url
+  url:
+  version:
+  gamedata:
+  category: core
+  description: >
+    
+- name: 8k Texture Pack (NOT OSX Compatible)
+  home:
+  via: url
+  url:
+  version:
+  gamedata:
+  category: core
+  description: >
+    
+- name: 4k Texture Pack
+  home:
+  via: url
+  url:
+  version:
+  gamedata:
+  category: core
+  description: >
+    
+- name: 2k Texture Pack
+  home:
+  via: url
+  url:
+  version:
+  gamedata:
+  category: core
+  description: >
+    
+- name:Real Fuels
+  home:
+  via: url
+  url:
+  version:
+  gamedata:
+  category: required
+  description: >
+    
+- name: Deadly Reentry
+  home:
+  via: url
+  url:
+  version:
+  gamedata:
+  category: required
+  description: >
+    
+- name: Ferram Aerospace Research
+  home:
+  via: url
+  url:
+  version:
+  gamedata:
+  category: required
+  description: >
+    
+- name: RealChutes
+  home:
+  via: url
+  url:
+  version:
+  gamedata:
+  category: required
+  description: >
+    
+- name:Engine Ignitor
+  home:
+  via: url
+  url:
+  version:
+  gamedata:
+  category: required
+  description: >
+    
+- name: ModuleRCSFX
+  home:
+  via: url
+  url:
+  version:
+  gamedata:
+  category: required
+  description: >
+    
+- name: Advanced Jet Engines
+  home:
+  via: url
+  url:
+  version:
+  gamedata:
+  category: required
+  description: >
+    
+- name: Engine Thrust Controller
+  home:
+  via: url
+  url:
+  version:
+  gamedata:
+  category: recommended
+  description: >
+    
+- name: TweakScale
+  home:
+  via: url
+  url:
+  version:
+  gamedata:
+  category: recommended
+  description: >
+    
+- name: Procedural Parts
+  home:
+  via: url
+  url:
+  version:
+  gamedata:
+  category: recommended
+  description: >
+    
+- name: Remote Tech
+  home:
+  via: url
+  url:
+  version:
+  gamedata:
+  category: recommended
+  description: >
+    
+- name: Procedural Fairings
+  home:
+  via: url
+  url:
+  version:
+  gamedata:
+  category: recommended
+  description: >
+    
+- name: Tac Life Supporter
+  home:
+  via: url
+  url:
+  version:
+  gamedata:
+  category: recommended
+  description: >
+    
