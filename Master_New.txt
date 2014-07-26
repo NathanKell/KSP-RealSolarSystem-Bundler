@@ -1,162 +1,170 @@
 - name: Real Solar System
-  home:
+  home: http://forum.kerbalspaceprogram.com/threads/55145
   via: url
-  url:
-  version:
-  gamedata:
+  url: https://github.com/NathanKell/RealSolarSystem/releases/download/v7.0/RealSolarSystem_v7.zip
+  version: ”7”
+  gamedata: true
   category: core
+  ignore: [ "ModuleManager*.dll" ]
   description: >
-    
+    Completely changes the size and orbit of the planetary bodies of the KSP universe to mirror that of our own
 - name: Realism Overhaul
-  home:
+  home: http://forum.kerbalspaceprogram.com/threads/84689
   via: url
-  url:
-  version:
-  gamedata:
+  url: https://github.com/NathanKell/RealismOverhaul/releases/download/v6.0a5/RealismOverhaul-6.0a5.zip
+  version: ”6.05a”
+  gamedata: true
   category: core
+  ignore: [ "ModuleManager*.dll" ]
   description: >
-    
+    A set of patches that resizes and reconfigures parts to resemble realistic technology
 - name: 8k Texture Pack (NOT OSX Compatible)
-  home:
+  home: http://forum.kerbalspaceprogram.com/threads/55145
   via: url
-  url:
-  version:
-  gamedata:
+  url: https://nabaal.net/files/ksp/nathankell/RealSolarSystem/Textures/8192.zip
+  version: ”1”
+  gamedata: true
   category: core
   description: >
-    
+    Gives all the planets high resolution realistic textures and maps.
 - name: 4k Texture Pack
-  home:
+  home: http://forum.kerbalspaceprogram.com/threads/55145
   via: url
-  url:
-  version:
-  gamedata:
+  url: https://nabaal.net/files/ksp/nathankell/RealSolarSystem/Textures/4096.zip
+  version: “1”
+  gamedata: true
   category: core
   description: >
-    
+    Gives all the planets medium resolution realistic textures and maps.
 - name: 2k Texture Pack
-  home:
+  home: http://forum.kerbalspaceprogram.com/threads/55145
   via: url
-  url:
-  version:
-  gamedata:
+  url: https://nabaal.net/files/ksp/nathankell/RealSolarSystem/Textures/2048.zip
+  version: “1”
+  gamedata: true
   category: core
   description: >
-    
-- name:Real Fuels
-  home:
+    Gives all the planets low resolution realistic textures and maps.
+- name: Real Fuels
+  home: http://forum.kerbalspaceprogram.com/threads/64118
   via: url
-  url:
-  version:
-  gamedata:
+  url: https://github.com/NathanKell/ModularFuelSystem/releases/download/rf-v7.1/RealFuels_v7.1.zip
+  version: “7.1”
+  gamedata: true
+  ignore: [ "ModuleManager*.dll" ]
   category: required
   description: >
-    
+    Adds a variety of realistic fuel types, as well as a new way of managing them
 - name: Deadly Reentry
-  home:
+  home: http://forum.kerbalspaceprogram.com/threads/54954
   via: url
-  url:
-  version:
-  gamedata:
+  url: https://github.com/NathanKell/DeadlyReentry/releases/download/v5.2/DeadlyReentryCont_v5.2.zip
+  version: “5.2”
+  gamedata: true
+  ignore: [ "ModuleManager*.dll" ]
   category: required
   description: >
-    
+    Adds realistic reentry heat, as well as g-force limitations for manned space craft.
 - name: Ferram Aerospace Research
-  home:
+  home: http://forum.kerbalspaceprogram.com/threads/20451
   via: url
-  url:
-  version:
-  gamedata:
+  url: https://github.com/ferram4/Ferram-Aerospace-Research/releases/download/v0.14.1.1/FerramAerospaceResearch_v0_14_1_1.zip
+  version: “0.14.1.1”
   category: required
+  ignore: [ "ModuleManager*.dll" ]
   description: >
-    
+    Replaces the KSP aerodynamics system with a realistic one
 - name: RealChutes
-  home:
+  home: http://forum.kerbalspaceprogram.com/threads/57988
   via: url
-  url:
-  version:
-  gamedata:
+  url: http://beta.kerbalstuff.com/mod/71/RealChute_Parachute_Systems/download/v1.2.2.2
+  version: ”1.2.2.2”
   category: required
   description: >
-    
-- name:Engine Ignitor
-  home:
+    Adds realistic, tweakable parachutes
+- name: Engine Ignitor
+  home: http://forum.kerbalspaceprogram.com/threads/51880
   via: url
-  url:
-  version:
-  gamedata:
+  url: https://www.dropbox.com/s/yousr4nxflld9ra/EngineIgnitor%20V3.2.zip?dl=1
+  version: “3.2.1”
+  gamedata: true
   category: required
   description: >
-    
+    Gives engines a set number of ignitions, as well as adding a variety of ignition types
 - name: ModuleRCSFX
-  home:
+  home: http://forum.kerbalspaceprogram.com/threads/77398
   via: url
-  url:
-  version:
-  gamedata:
+  url: https://github.com/Ialdabaoth/ModuleRCSFX/blob/master/ModuleRCSFX.zip?raw=true
+  version: “0.3”
+  gamedata: true
   category: required
   description: >
-    
+    Makes the Stock RCS system better
 - name: Advanced Jet Engines
-  home:
+  home: http://forum.kerbalspaceprogram.com/threads/70008
   via: url
-  url:
-  version:
-  gamedata:
+  url: https://www.dropbox.com/sh/v1funr72y504rz6/AADByOlzm6kBfsp44Anqn0Z4a/AJE_1.4.zip?dl=1
+  version: “1.4”
+  gamedata: true
   category: required
+  ignore: [ "ModuleManager*.dll" ]
   description: >
-    
+    Completely overhauls the way jet engines and intakes work
 - name: Engine Thrust Controller
-  home:
+  home: http://soundfxnow.com/soundfx/Sad-Trombone.mp3
   via: url
-  url:
+  url: https://www.dropbox.com/s/hb51rhkgdz814nl/Engine%20Thrust%20Controll%20V2.zip?dl=1
   version:
-  gamedata:
+  gamedata: true
   category: recommended
+  install:
+    - actions:
+      - DELETE $GAMEDATA/Engine Thrust Controll V2/ETC.cfg
   description: >
-    
+    Gives SRBs proper thrust curves.
 - name: TweakScale
-  home:
+  home: http://forum.kerbalspaceprogram.com/threads/80234
   via: url
-  url:
-  version:
-  gamedata:
+  url: https://www.dropbox.com/s/5l8s9u40qx6xtd1/TweakScale_1.32.zip?dl=1
+  version: “1.3.2”
+  gamedata: true
   category: recommended
+  ignore: [ "ModuleManager*.dll" ]
   description: >
-    
+    Allows you to tweak the size of parts through tweakables
 - name: Procedural Parts
-  home:
+  home: http://forum.kerbalspaceprogram.com/threads/70676
   via: url
-  url:
-  version:
-  gamedata:
+  url: https://github.com/Swamp-Ig/ProceduralParts/releases/download/v0.9.16/ProceduralParts-0.9.16.zip
+  version: “0.9.15”
+  gamedata: true
   category: recommended
+  ignore: [ "ModuleManager*.dll" ]
   description: >
-    
+    Adds procedural fuel tanks and other parts, the dimensions of which can be changed via tweakables
 - name: Remote Tech
-  home:
+  home: http://forum.kerbalspaceprogram.com/threads/83305
   via: url
-  url:
-  version:
-  gamedata:
+  url: https://github.com/RemoteTechnologiesGroup/RemoteTech/releases/download/v1.4.0/RemoteTech-v1.4.0.zip
+  version: “1.4”
+  gamedata: true
   category: recommended
+  ignore: [ "ModuleManager*.dll" ]
   description: >
-    
+    All probes now require a connection to a space centre to be controllable
 - name: Procedural Fairings
-  home:
+  home: http://forum.kerbalspaceprogram.com/threads/39512
   via: url
-  url:
-  version:
-  gamedata:
+  url: https://github.com/e-dog/ProceduralFairings/releases/download/v3.08/ProcFairings_3.08.zip
+  version: “3.0.8”
   category: recommended
   description: >
-    
-- name: Tac Life Supporter
-  home:
+    The ultimate fairings mod
+- name: Tac Life Support
+  home: http://forum.kerbalspaceprogram.com/threads/40667
   via: url
-  url:
-  version:
-  gamedata:
+  url: https://github.com/taraniselsu/TacLifeSupport/releases/download/v0.9-pre3/TacLifeSupport_0.9.0.9-pre3.zip
+  version: “0.9.0.9”
   category: recommended
   description: >
-    
+    Your Kerbals now require life support as well as creating waste products.

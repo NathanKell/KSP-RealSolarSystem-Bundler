@@ -4,49 +4,35 @@ version: 3
 
 required:
   - Real Solar System
-
-recommended:
   - Realism Overhaul
-  - Ferram Aerospace Research (FAR)
-  - Deadly Reentry Continued
-  - StretchySRB
-  - RealFuels
+  - Real Fuels
+  - Deadly Reentry
+  - Ferram Aerospace Research
   - RealChutes
   - Engine Ignitor
-  - ECLSS
-  - TAC Life Support
-  - Remote Tech 2
-  - Realistic Progression LITE
-  - Mission Controller Extended
-  - Visual Enhancements (Low-Res)
+  - ModuleRCSFX
+  - Advanced Jet Engines
+  - Engine Thrust Controller
+
+recommended:
+  - 8k Texture Pack  (NOT OSX Compatible)
+  - 4k Texture Pack
+  - 2k Texture Pack
+  - TweakScale
+  - Procedural Parts
+  - RemoteTech
   - Procedural Fairings
-  - Kerbal Joint Reinforcement
-  - AIES
-  - KW Rocketry
-  - NovaPunch
-  - FASA
-  - Bobcat Soviet Engines Pack
-  - RLA Stockalike
-  - MechJeb
-  - Kerbal Engineer Redux
-  - Reaching for the Stars Pack
+  - TAC Life Support
 
 defaults:
+  - Real Solar System
   - Realism Overhaul
-  - Ferram Aerospace Research (FAR)
-  - Deadly Reentry Continued
-  - StretchySRB
-  - RealFuels
+  - 4k Texture Pack
+  - Real Fuels
+  - Deadly Reentry
+  - Ferram Aerospace Research
   - RealChutes
-  - TAC Life Support
-  - Realistic Progression LITE
-  - Mission Controller Extended
-  - Visual Enhancements (Low-Res)
-  - Procedural Fairings
-  - Kerbal Joint Reinforcement
-  - AIES
-  - KW Rocketry
-  - NovaPunch
-  - RLA Stockalike
-  - MechJeb
-  - Reaching for the Stars Pack
+  - Engine Ignitor
+  - ModuleRCSFX
+  - Advanced Jet Engines
+  - Engine Thrust Controller
