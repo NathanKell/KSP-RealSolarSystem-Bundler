@@ -13,7 +13,7 @@ Installation
 You'll need to make sure the following utilities are installed:
 
 * JRuby (http://jruby.org)
-* warble (Ruby gem, `gem install warble`)
+* warbler (Ruby gem, `gem install warbler`)
 * unzip
 * unrar
 
