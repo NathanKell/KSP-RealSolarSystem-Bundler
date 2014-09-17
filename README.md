@@ -20,11 +20,26 @@ You'll need to make sure the following utilities are installed:
 Usage
 -----
 
-At it's simplest, you can just run the following command:
+First, run `warble` to compile the ruby into JVM bytecode:
 
-    ruby -Ilib bin/bundler.rb
+    $ cd KSP-RealSolarSystem-Bundler
+    $ warble
+
+Then run the appropriate batch command from the `dist` directory:
+
+    $ dist/real-solar-system.sh     # Mac/Linux
+    > dist/real-solar-system.bat    # Windows
 
 This presents you with a GUI for selecting mods, and for building the archive. Once the archive is built, you can then copy that to your KSP folder, and unzip it.
+
+## Running directly from ruby
+
+In theory, you can also run the bundler directory from Ruby with:
+
+    $ ruby -Ilib bin/bundler.rb
+
+But in practice this may not work. Please submit a patch to this README
+if you can get this running reliably. :)
 
 Configuration
 -------------
